@@ -10,6 +10,10 @@ public class Test1 {
        String str = "Robot = 1 OR     Dance > 12";
         str = str.replaceAll("\\s+", " ");
         System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+        System.out.println(str);
+
 
 
 

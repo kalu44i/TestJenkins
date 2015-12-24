@@ -43,6 +43,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../mi-insightd/mi-insightd-core/src/test/java/com/metricinsights/collector/plugin/filter/PolishNotationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../mi-plugin-tableau/src/test/java/com/metricinsights/collector/plugin/tableau/TableauWebTest.java">
           <value>
             <set />
