@@ -23,6 +23,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../mi-insightd/mi-insightd-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mi-insightd/mi-insightd-core/src/main/java/com/metricinsights/collector/plugin/QueryRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mi-insightd/mi-insightd-core/src/main/java/com/metricinsights/collector/plugin/filter/FilterUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mi-insightd/mi-insightd-core/src/main/java/com/metricinsights/collector/standalone/DataCollector.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mi-plugin-tableau/src/test/java/com/metricinsights/collector/plugin/tableau/TableauWebTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mi-plugin-tableau/src/test/java/com/metricinsights/collector/plugin/tableau/WebClientTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
